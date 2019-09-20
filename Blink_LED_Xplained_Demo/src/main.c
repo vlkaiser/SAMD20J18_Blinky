@@ -19,7 +19,7 @@
  *
  * \par Content
  *
- * -# Include the ASF header files (through asf.h)
+ * -# Include the default project ASF header files (through asf.h).  Did not add or import any ASF files.
  * -# Minimal main function that starts with a call to system_init()
  * -# Basic setup of GPIO input/output pin configs
  * -# Sets on-board LED to opposite state of button press
